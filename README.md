@@ -1,35 +1,46 @@
-# Treinando YoloV8
-Fazendo um treinamento da YoloV8
-
-## Treinando
-### Instalando pytorch com CUDA para uso da GPU
-Se você tem uma placa de vídeo compatível com CUDA, primeiro instale o PyTorch com CUDA neste link
-
-[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
-
-### Instale o Yolo
-```
-pip install ultralitics
-```
-
-### Treinamento
-Para treinar, acompanhe o vídeo e use o arquivo "train_among_v8.py"
-
-## Testando
-Para testar, se quiser fazer o rastreio coloque a variavel "seguir" em True
-Para desenhar o rastreio coloque a variavel "deixar_rastro" em True
-
-### Testando com WebCam
-Para testar com WebCam use o arquivo "detectar_usando_webcam.py"
-
-### Testando Capturando Tela
-Para testar capturando a tela use o arquivo "detectar_capturando_tela.py"
-
-Neste caso configure o tamanho da tela no campo "size" da wincap e ajuste o offset do ponto inicial que quer capturar
-
-Também é possível capturar passando o nome da janela que deseja usar (porém nem sempre funciona)
+# 🖱️Artificial intelligence for Naruto shippuden storm 4
 
 
-Valeuuu
+# 📚 Artificial Naruto inteligence
+- ANI 45 imagens (Available for download and use)
+- ANI 156 imagens (in-training)
+- ANI 1k imagens (soon)
 
-[!["Treinando Redes Neurais Com Imagens Próprias"](https://img.youtube.com/vi/KV5lszcKuiE/0.jpg)](https://www.youtube.com/watch?v=KV5lszcKuiE)
+## Índice
+
+- [ANI 45 imagens](#ANI-45-imagens)
+- [ANI_156_imagens](#ANI_156_imagens)
+- [ANI 1k imagens](#ANI_1k_imagens)
+
+#
+- [List-of-moves-for-AI](#List-of-moves-for-AI)
+
+# ANI 45 imagens
+- YOLOv8n params 3.2M	
+
+## 📚Results
+![Alt Text](naruto_v1/run/detect/train2/results.png)
+#
+## 📚Example of 45 imagens
+![Alt Text](gif/output_video.mp4)
+#
+## 📚Predict validation
+![Alt Text](naruto_v1/run/detect/train2/val_batch0_labels.jpg)
+![Alt Text](naruto_v1/run/detect/train2/val_batch0_pred.jpg)
+
+![Alt Text](naruto_v1/run/detect/train22/val_batch0_labels.jpg)
+![Alt Text](naruto_v1/run/detect/train22/val_batch0_pred.jpg)
+
+# ANI_156_imagens
+
+# ANI_1k_imagens
+- datasets
+https://huggingface.co/datasets/ualerr/data_naruto_frames_1k/
+
+
+
+
+
+- CREDITS:
+
+https://github.com/inteligenciamilgrau/treinando_yolov8
