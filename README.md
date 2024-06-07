@@ -10,37 +10,34 @@
 
 - [ANI 45 imagens](#ANI-45-imagens)
 - [ANI_156_imagens](#ANI_156_imagens)
-- [ANI 1k imagens](#ANI_1k_imagens)
+- [ANI 1k imagens](#ANI-1k-imagens)
 
-#
-- [List-of-moves-for-AI](#List-of-moves-for-AI)
 
 # ANI 45 imagens
 - YOLOv8n params 3.2M	
 
 ## 📚Results
-![Alt Text](naruto_v1/run/detect/train2/results.png)
+![Alt Text](naruto_v1/results.png)
 #
 ## 📚Example of 45 imagens
 ![Alt Text](gif/output_video.mp4)
 #
 ## 📚Predict validation
-![Alt Text](naruto_v1/run/detect/train2/val_batch0_labels.jpg)
-![Alt Text](naruto_v1/run/detect/train2/val_batch0_pred.jpg)
+![Alt Text](naruto_v1/val_batch0_labels.jpg)
+![Alt Text](naruto_v1/val_batch0_pred.jpg)
 
-![Alt Text](naruto_v1/run/detect/train22/val_batch0_labels.jpg)
-![Alt Text](naruto_v1/run/detect/train22/val_batch0_pred.jpg)
+![Alt Text](naruto_v1/val_batch0_labels.jpg)
+![Alt Text](naruto_v1/val_batch0_pred.jpg)
 
-# ANI_156_imagens
+# ANI 156 imagens
 
-# ANI_1k_imagens
-- datasets
-https://huggingface.co/datasets/ualerr/data_naruto_frames_1k/
+# ANI 1k imagens
+- 1k imagens datasets
+- https://huggingface.co/datasets/ualerr/data_naruto_frames_1k/
 
 
 
 
 
 - CREDITS:
-
-https://github.com/inteligenciamilgrau/treinando_yolov8
+- https://github.com/inteligenciamilgrau/treinando_yolov8
