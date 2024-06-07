@@ -15,12 +15,13 @@
 
 # ANI 45 imagens
 - YOLOv8n params 3.2M	
+## 📚Example of 45 imagens
+![Alt Text](gif/output_video.gif)
+#
 
 ## 📚Results
 ![Alt Text](naruto_v1/results.png)
-#
-## 📚Example of 45 imagens
-![Alt Text](gif/output_video.gif)
+
 #
 ## 📚Predict validation
 ![Alt Text](naruto_v1/val_batch0_labels.jpg)
