@@ -20,7 +20,7 @@
 ![Alt Text](naruto_v1/results.png)
 #
 ## 📚Example of 45 imagens
-![Alt Text](gif/output_video.mp4)
+![Alt Text](gif/output_video.gif)
 #
 ## 📚Predict validation
 ![Alt Text](naruto_v1/val_batch0_labels.jpg)
