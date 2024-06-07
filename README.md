@@ -1,6 +1,5 @@
-# 🖱️Artificial intelligence for Naruto shippuden storm 4
-
-
+#           N-A-I
+#
 # 📚 Naruto Artificial inteligence
 - NAI 45 imagens (Available for download and use)
 - NAI 156 imagens (in-training)
@@ -14,11 +13,38 @@
 
 ## index dataset
 - [1.000 imagens in resolution 1980x1080](#1k-dataset)
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 # NAI 45 imagens
 - YOLOv8n params 3.2M	
+- DOWNLOAD IN naruto_v1/best.pt OR naruto_v1/last.pt
+
 ## 📚Example of 45 imagens
 ![Alt Text](gif/output_video.gif)
 #
