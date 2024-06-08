@@ -36,7 +36,7 @@ def main():
 
     model = YOLO("yolov8x.pt") 
 
-    model.train(data="naruto.yaml", epochs=20, device='cpu')  
+    model.train(data="naruto.yaml", epochs=20, device=0, batch=1)  # ,device='cpu'
     model.val()  
 
 
