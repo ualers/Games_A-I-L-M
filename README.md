@@ -1,4 +1,18 @@
-#           N-A-I
+---
+license: mit
+datasets:
+- ualerr/data_NAI_200_frames
+- ualerr/data_NAI_842_frames
+- ualerr/dataset_NAI_45_frames
+metrics:
+- precision
+pipeline_tag: object-detection
+tags:
+- game
+- naruto
+---
+#-------------------N-A-I-------------------
+
 #
 # 📚 Naruto Artificial inteligence
 - NAI 45 imagens (Available for download and use)
@@ -123,6 +137,3 @@
 - https://github.com/inteligenciamilgrau/treinando_yolov8
 - https://github.com/ultralytics/ultralytics
 
----
-license: mit
----
