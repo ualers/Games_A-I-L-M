@@ -8,10 +8,10 @@
 
 ## index model
 
-- [NAI 45 imagens](#NAI-45-imagens)
-- [NAI 156 imagens](#NAI-156-imagens)
-- [NAI 845 imagens](#NAI-845-imagens)
-- [NAI 2k imagens](#NAI-2.228-imagens)
+- [N-A-I 45 imagens](#N-A-I-45-imagens)
+- [N-A-I 156 imagens](#N-A-I-156-imagens)
+- [N-A-I 845 imagens](#N-A-I-845-imagens)
+- [N-A-I 2k imagens](#N-A-I-2.228-imagens)
 
 ## index dataset
 - https://huggingface.co/datasets/ualerr/dataset_NAI_45_frames/
@@ -41,15 +41,15 @@
 #
 #
 #
-# NAI 2.228 imagens
+# N-A-I 2.228 imagens
 #
 #
-# NAI 845 imagens
+# N-A-I 845 imagens
 - 
 
 
 #
-# NAI 156 imagens
+# N-A-I 156 imagens
 - epochs: 20
 - metrics/mAP50-95(B): 0.16716
 - metrics/mAP50(B): 0.36526
@@ -83,7 +83,7 @@
 
 
 
-# NAI 45 imagens
+# N-A-I 45 imagens
 - epochs: 30
 - metrics/mAP50-95(B): 0.3861
 - metrics/mAP50(B): 0.62534
