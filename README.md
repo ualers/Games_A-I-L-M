@@ -48,7 +48,18 @@
 
 #
 # C-S-L-M 23k images
-
+- epochs: 5 completed in 4.357 hours.
+- Model summary (fused): 168 layers, 3006038 parameters, 0 gradients, 8.1 GFLOPs
+- Speed: 0.8ms preprocess, 16.2ms inference, 0.0ms loss, 3.0ms postprocess per image
+- metrics/mAP50-95(B): 0.16716
+- metrics/mAP50(B): 0.36526
+- metrics/precision(B): 0.3872
+- imgsz: 640px
+- batch: 16
+- Hardware for train: Quadro P600 2gb,16ram
+- time in training 5h
+- YOLOv8x Parameters 3 M
+- DOWNLOAD IN https://huggingface.co/ualerr/C-S-L-M/tree/main/C-S-L-M_23K
 
 #
 #
