@@ -137,22 +137,22 @@
 - DOWNLOAD IN https://huggingface.co/ualerr/N-A-I/tree/main/naruto_v2
 #
 ## 📚Example of 156 imagens
-![Alt Text](naruto_v2/output_video.gif)
+![Alt Text](N-A-I_Model/naruto_v2/output_video.gif)
 #
 ## 📚Results
-![Alt Text](naruto_v2/results.png)
+![Alt Text](N-A-I_Model/naruto_v2/results.png)
 #
 #
 ## 📚Predict validation
 - input 
-![Alt Text](naruto_v2/val_batch0_pred.jpg)
+![Alt Text](N-A-I_Model/naruto_v2/val_batch0_pred.jpg)
 - output
-![Alt Text](naruto_v2/val_batch0_labels.jpg)
+![Alt Text](N-A-I_Model/naruto_v2/val_batch0_labels.jpg)
 #
 - input 
-![Alt Text](naruto_v2/val_batch0_pred.jpg)
+![Alt Text](N-A-I_Model/naruto_v2/val_batch0_pred.jpg)
 - output
-![Alt Text](naruto_v2/val_batch0_labels.jpg)
+![Alt Text](N-A-I_Model/naruto_v2/val_batch0_labels.jpg)
 #
 #
 
@@ -171,23 +171,23 @@
 - DOWNLOAD IN https://huggingface.co/ualerr/N-A-I/tree/main/naruto_v1
 - 
 ## 📚Example of 45 imagens
-![Alt Text](gif/output_video.gif)
+![Alt Text](N-A-I_Model/gif/output_video.gif)
 #
 
 ## 📚Results
-![Alt Text](naruto_v1/results.png)
+![Alt Text](N-A-I_Model/naruto_v1/results.png)
 #
 #
 ## 📚Predict validation
 - input 
-![Alt Text](naruto_v1/val_batch0_pred.jpg)
+![Alt Text](N-A-I_Model/naruto_v1/val_batch0_pred.jpg)
 - output
-![Alt Text](naruto_v1/val_batch0_labels.jpg)
+![Alt Text](N-A-I_Model/naruto_v1/val_batch0_labels.jpg)
 
 - input 
-![Alt Text](naruto_v1/val_batch0_pred.jpg)
+![Alt Text](N-A-I_Model/naruto_v1/val_batch0_pred.jpg)
 - output
-![Alt Text](naruto_v1/val_batch0_labels.jpg)
+![Alt Text](N-A-I_Model/naruto_v1/val_batch0_labels.jpg)
 #
 
 
