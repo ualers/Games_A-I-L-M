@@ -1,4 +1,4 @@
-# the beginning of large models for games
+# the beginning of large models for Artificial inteligence in games
 
 
 
