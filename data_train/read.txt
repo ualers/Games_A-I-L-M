@@ -1,1 +1,0 @@
-https://huggingface.co/datasets/ualerr/data_naruto_frames_1k/
