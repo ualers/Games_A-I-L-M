@@ -1,12 +1,13 @@
 # the beginning of large models for Artificial inteligence in games
 
-
-
+# games we are training
+- Naruto ultimate storm 4
+- CS 1.6 / CS GO / CS 2
 
 
 ## index models
 - [C-S-L-M](#📚-Counter-Strike-Large-Model)
-- [N-A-I 156 imagens](#N-A-I-156-imagens)
+- [N-A-I](#N-A-I-156-imagens)
 
 
 #
