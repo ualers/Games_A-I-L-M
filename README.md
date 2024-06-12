@@ -1,16 +1,78 @@
----
-license: mit
-datasets:
-- ualerr/data_NAI_200_frames
-- ualerr/data_NAI_842_frames
-- ualerr/dataset_NAI_45_frames
-metrics:
-- precision
-pipeline_tag: object-detection
-tags:
-- game
-- naruto
----
+# the beginning of large models for games
+
+
+
+
+
+## index models
+- [C-S-L-M](#📚-Counter-Strike-Large-Model)
+- [N-A-I 156 imagens](#N-A-I-156-imagens)
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#-------------------C-S-L-M-------------------
+
+
+# 📚 Counter Strike Large Model
+- C-S-L-M 23.408 images (Training)
+
+#
+## index C-S-L-M model
+- [C-S-L-M 23.408 images](#C-S-L-M-23k-images)
+
+
+#
+## index C-S-L-M dataset
+- 
+
+
+#
+# C-S-L-M 23k images
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #-------------------N-A-I-------------------
 
 #
@@ -20,14 +82,14 @@ tags:
 - NAI 845 imagens (train)
 - NAI 2k imagens (train)
 
-## index model
+## index N-A-I model
 
 - [N-A-I 45 imagens](#N-A-I-45-imagens)
 - [N-A-I 156 imagens](#N-A-I-156-imagens)
 - [N-A-I 845 imagens](#N-A-I-845-imagens)
 - [N-A-I 2k imagens](#N-A-I-2.228-imagens)
 
-## index dataset
+## index N-A-I dataset
 - https://huggingface.co/datasets/ualerr/dataset_NAI_45_frames/
 - https://huggingface.co/datasets/ualerr/data_NAI_200_frames/
 - https://huggingface.co/datasets/ualerr/data_NAI_842_frames/
