@@ -34,8 +34,8 @@
 
 
 # Counter Strike Large Model
-- C-S-L-M 23.408 images YOLOv8n class 0 and 1 (complete)
-- C-S-L-M 23.408 images YOLOv8x class 0 and 1 (Train)
+- C-S-L-M 23.408 images YOLOv8n class 0 and 1 not agent only object detect (complete)
+- C-S-L-M 23.408 images YOLOv8x class 0 and 1 not agent only object detect (Train)
 - C-S-L-M create agent keyboard wasd123ctrlspace (waiting for the previous model to be trained)
 - C-S-L-M 83.579 images YOLOv8x class only 0 (waiting for the previous model to be trained)
 - C-S-L-M 152.529 images YOLOv8x class only 0 (waiting for the previous model to be trained)
@@ -55,6 +55,7 @@
 
 #
 # C-S-L-M 23k images
+- not agent only object detect 
 - epochs: 5 
 - Model summary (fused): 168 layers, 3006038 parameters, 0 gradients, 8.1 GFLOPs
 - Speed: 0.8ms preprocess, 16.2ms inference, 0.0ms loss, 3.0ms postprocess per image
