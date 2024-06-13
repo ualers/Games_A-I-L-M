@@ -34,7 +34,16 @@
 
 
 # 📚 Counter Strike Large Model
-- C-S-L-M 23.408 images (Training)
+- C-S-L-M 23.408 images YOLOv8n class 0 and 1 (complete)
+- C-S-L-M 23.408 images YOLOv8x class 0 and 1 (Train)
+- C-S-L-M 83.579 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M 152.529 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M 235.519 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M 295.379 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M 355.179 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M create agent YOLOv8x keyboard wasd123ctrlspace(waiting for the previous model to be trained)
+- C-S-L-M 465.179 images YOLOv8x class only 0 (waiting for the previous model to be trained)
+- C-S-L-M 745.179 images YOLOv8x class only 0 (waiting for the previous model to be trained)
 
 #
 ## index C-S-L-M model
