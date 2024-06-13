@@ -4,7 +4,7 @@
 
 
 ## index models
-- [C-S-L-M](#📚-Counter-Strike-Large-Model)
+- [C-S-L-M](#Counter-Strike-Large-Model)
 - [N-A-I](#N-A-I-156-imagens)
 
 
@@ -33,7 +33,7 @@
 #-------------------C-S-L-M-------------------
 
 
-# 📚 Counter Strike Large Model
+# Counter Strike Large Model
 - C-S-L-M 23.408 images YOLOv8n class 0 and 1 (complete)
 - C-S-L-M 23.408 images YOLOv8x class 0 and 1 (Train)
 - C-S-L-M create agent keyboard wasd123ctrlspace (waiting for the previous model to be trained)
@@ -46,10 +46,8 @@
 - C-S-L-M 745.179 images YOLOv8x class only 0 (waiting for the previous model to be trained)
 
 #
-## index C-S-L-M model
+## 📚 index C-S-L-M model
 - [C-S-L-M 23.408 images](#C-S-L-M-23k-images)
-
-
 #
 ## index C-S-L-M dataset
 - 
