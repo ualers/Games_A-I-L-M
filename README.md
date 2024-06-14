@@ -1,3 +1,4 @@
+![Alt Text](C-S-L-M/C-S-L-M_23K/icon/2.jpg)
 # Games we are training
 - Naruto ultimate storm 4
 - CS 1.6 / CS GO / CS 2
@@ -31,7 +32,7 @@
 #
 #
 #-------------------C-S-L-M-------------------
-
+![Alt Text](C-S-L-M/C-S-L-M_23K/icon/3.jpg)
 
 # Counter Strike Large Model
 - C-S-L-M 23.408 images YOLOv8n class 0 and 1 not agent only object detect (complete)
