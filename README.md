@@ -31,8 +31,8 @@
 #
 #
 #
-#-------------------C-S-L-M-------------------
-![Alt Text](C-S-L-M/C-S-L-M_23K/icon/3.jpg)
+# -------------------C-S-L-M-------------------
+![Alt Text](C-S-L-M/C-S-L-M_23K/icon/DALLE2_1.jpg)
 
 # Counter Strike Large Model
 - C-S-L-M 23.408 images YOLOv8n class 0 and 1 not agent only object detect (complete)
